@@ -1,0 +1,30 @@
+📊 Pembuatan Data Acak dengan RAND di Excel
+Deskripsi
+Proyek ini berfokus pada pembuatan data acak menggunakan fungsi RAND di Microsoft Excel serta mengubah hasilnya menjadi nilai tetap.
+
+Dataset
+Data terdiri dari:
+- Nama siswa
+- Jenis kelamin
+- Nilai acak (random)
+
+Tools & Fungsi yang Digunakan
+- Microsoft Excel
+- Fungsi RAND
+- Paste Special (Values)
+
+Hasil
+- Data acak berhasil dihasilkan
+- Nilai random dikunci agar tidak berubah
+- Data lebih stabil untuk analisis
+
+Tujuan Proyek
+- Memahami penggunaan fungsi RAND
+- Melatih pembuatan data acak
+- Mengunci hasil perhitungan di Excel
+
+Insight
+Data acak berguna untuk simulasi, namun perlu dikonversi ke nilai tetap agar tidak berubah saat file diperbarui.
+
+Penutup
+Proyek ini merupakan latihan dasar dalam pembuatan dan pengolahan data acak menggunakan Excel.
